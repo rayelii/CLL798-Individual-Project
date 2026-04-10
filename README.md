@@ -49,7 +49,7 @@ python simulation.py
 
 This will:
 - Run the main forest-fire simulation (L=80, 8000 steps)
-- Generate all 4 figures in `figures/`
+- Generate all 4 figures one by one
 - Print the power-law exponent and R²
 
 Expected output:
