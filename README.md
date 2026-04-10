@@ -26,10 +26,10 @@ This project applies **complexity science** to the **Drossel–Schwabl forest-fi
 ├── main.pdf               # Compiled PDF report
 ├── requirements.txt       # Python dependencies
 ├── figures/               # Generated figures (PDF + PNG)
-│   ├── avalanche_distribution.pdf
-│   ├── connectivity_analysis.pdf
-│   ├── density_timeseries.pdf
-│   └── grid_snapshots.pdf
+│   ├── avalanche_distribution.png
+│   ├── connectivity_analysis.png
+│   ├── density_timeseries.png
+│   └── grid_snapshots.png
 └── README.md
 ```
 
